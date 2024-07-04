@@ -3,7 +3,7 @@
   "version": "3.25.0",
   "private": true,
   "dependencies": {
-    "@ant-design/charts": "^1.2.14",
+    "@ant-design/charts": "^2.0.0",
     "@pankod/refine": "2.0.11",
     "@pankod/refine-antd": "^3.27.0",
     "@pankod/refine-core": "^3.36.0",
