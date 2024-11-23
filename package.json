@@ -51,7 +51,7 @@
   },
   "dependencies": {
     "@changesets/changelog-github": "^0.4.4",
-    "@changesets/cli": "^2.22.0",
+    "@changesets/cli": "^2.27.10",
     "prettier": "2.3.0"
   }
 }
